@@ -1,0 +1,19 @@
+{
+  "name": "node_rest-api",
+  "version": "1.0.0",
+  "description": "REST-API hands-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindraindia4u/node_rest-api.git"
+  },
+  "author": "Ravindra Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindraindia4u/node_rest-api/issues"
+  },
+  "homepage": "https://github.com/ravindraindia4u/node_rest-api#readme"
+}
